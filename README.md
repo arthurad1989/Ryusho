@@ -1,5 +1,5 @@
 # Ryusho
-Ryosho Bot for our Chn. Handwriting Dc-server
+Ryosho, a Bot providing handwritten Chn. character models for our Dc-server (Chn. handwriting)
 
 Arthur: ASK0000-9999, ASX0000-9999
 Julian: JCK0000-9999, JCK0000-9999
