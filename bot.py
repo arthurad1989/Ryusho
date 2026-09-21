@@ -1,0 +1,1 @@
+print("Ryusho is starting...")
